@@ -25,5 +25,5 @@ Freelance web developer, I do several activities depending on the demand:
   <img src="https://user-images.githubusercontent.com/72522784/207819618-c2e3cc73-c75e-4160-8cca-7353624092e8.png" width="50" height="auto" alt="logo Next.js"/>
   <img src="https://user-images.githubusercontent.com/72522784/207814832-016087bb-4554-4f4e-a26d-436a380d6453.png" width="50" height="auto" alt="logo mongoDB"/>
   <img src="https://user-images.githubusercontent.com/72522784/207814839-40842ddb-4cf6-48a7-8656-a44ea1a01be2.png" width="50" height="auto" alt="logo mySQL"/>
-</div>!
+</div>
 
