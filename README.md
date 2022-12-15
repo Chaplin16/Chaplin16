@@ -18,7 +18,6 @@ Freelance web developer, I do several activities depending on the demand:
 
 
 <img src="[http://....jpg](https://user-images.githubusercontent.com/72522784/207814505-cfdf2a01-dfc6-461a-9938-b0732905266f.png)" width="50" height="auto" />
-![html](https://user-images.githubusercontent.com/72522784/207814505-cfdf2a01-dfc6-461a-9938-b0732905266f.png =100x)
 ![css](https://user-images.githubusercontent.com/72522784/207814554-46f9bd37-2c21-41c9-8977-8884782f18cc.png)
 ![sass](https://user-images.githubusercontent.com/72522784/207814640-4d066349-b2c0-48cb-bf7a-bc37b54cbb46.png)
 ![js](https://user-images.githubusercontent.com/72522784/207814702-8a37b977-b6b2-4304-a945-3799df2f667e.png)
