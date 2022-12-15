@@ -22,8 +22,8 @@ Freelance web developer, I do several activities depending on the demand:
   <img src="https://user-images.githubusercontent.com/72522784/207814640-4d066349-b2c0-48cb-bf7a-bc37b54cbb46.png" width="50" height="auto" alt="logo SASS"/>
   <img src="https://user-images.githubusercontent.com/72522784/207814702-8a37b977-b6b2-4304-a945-3799df2f667e.png" width="50" height="auto" alt="logo JS"/>
   <img src="https://user-images.githubusercontent.com/72522784/207814778-773648bf-8380-46fb-8c91-415a7ff6a246.png" width="50" height="auto" alt="logo React"/>
-  <img src="https://user-images.githubusercontent.com/72522784/207814787-75a51ecc-d61b-4340-80cd-a4e1389c0924.png" width="50" height="auto" alt="logo Next.js"/>
+  <img src="https://user-images.githubusercontent.com/72522784/207819618-c2e3cc73-c75e-4160-8cca-7353624092e8.png" width="50" height="auto" alt="logo Next.js"/>
   <img src="https://user-images.githubusercontent.com/72522784/207814832-016087bb-4554-4f4e-a26d-436a380d6453.png" width="50" height="auto" alt="logo mongoDB"/>
   <img src="https://user-images.githubusercontent.com/72522784/207814839-40842ddb-4cf6-48a7-8656-a44ea1a01be2.png" width="50" height="auto" alt="logo mySQL"/>
-</div>
+</div>!
 
